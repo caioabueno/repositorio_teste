@@ -8,3 +8,5 @@ Para utilizar:
 ```
 cowsay -f "$(sorted_fortune_cowsay.sh)" frase da cow aleatória
 ```
+
+Atualização teste via nuvem - 1
